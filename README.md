@@ -26,3 +26,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshjain026&show_icons=true&locale=en&layout=compact" alt="dhaneshjain026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaneshjain026&" alt="dhaneshjain026" /></p>
+[![dhaneshjain026's GitHub | Stats](https://stats.quira.sh/dhaneshjain026/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=dhaneshjain026)
