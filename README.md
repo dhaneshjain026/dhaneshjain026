@@ -1,4 +1,4 @@
-[![dhaneshjain026's GitHub | Stats](https://stats.quira.sh/dhaneshjain026/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=dhaneshjain026) <h1 align="center">Hi 👋, I'm dhanesh choraria</h1>
+ <h1 align="center">Hi 👋, I'm dhanesh choraria</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaneshjain026&label=Profile%20views&color=0e75b6&style=flat" alt="dhaneshjain026" /> </p>
@@ -26,4 +26,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaneshjain026&show_icons=true&locale=en&layout=compact" alt="dhaneshjain026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaneshjain026&" alt="dhaneshjain026" /></p>
+
+[![dhaneshjain026's GitHub | Stats](https://stats.quira.sh/dhaneshjain026/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=dhaneshjain026)
  
