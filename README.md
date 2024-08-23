@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,c++,javascript**
 
-- 📫 How to reach me **dhanesh_a@srmap.edu.in**
+- 📫 How to reach me **achorariadhanesh@gmail.com**
 
 - ⚡ Fun fact **I think I am cool enough**
 
